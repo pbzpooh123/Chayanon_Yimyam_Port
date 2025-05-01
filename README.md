@@ -12,12 +12,11 @@ In [Project](https://github.com/SuNnY54569/Portfolio/tree/main/Project) folder c
 ### 🌍 Infinite Deflect- Multiplayer 
 * Worked as Game Developer
 * fast-paced, multiplayer PvP game
-* A science fiction real-time strategy game where players engage in strategic battles and resource management to dominate the Enemy. The game features multiplayer functionality, allowing players to connect and compete in real-time within the same lobby.
 
 ## Key Contributions  
-- **Multiplayer Connection:** Developed the system for real-time player connections using the Unity Netcode framework.  
-- **Lobby Management:** Implemented systems for generating and discovering active lobbies, ensuring smooth matchmaking.  
-- **Team Customization:** Designed and integrated team color selection to personalize and enhance the multiplayer experience.  
+- Multiplayer Connection: Developed the system for real-time player connections using the Unity Netcode framework.  
+- Lobby Management: Implemented systems for generating and discovering active lobbies, ensuring smooth matchmaking.  
+- Gameplay System : Implemented systems for player movement and the ball that will randomly select player and after it hit the player or "Deflect" by player will randomly select another player.
 
 ![TerraForge GIF](https://github.com/SuNnY54569/SuNnY54569/blob/acbb43f1d15c94f8ee3fbc2918b130af1eb1f74a/TerraForge%20Trailer.gif)
 
@@ -27,16 +26,16 @@ You can [play TerraForge on Itch.io](https://phiraphonware.itch.io/terraforge).
 
 * Worked as a Game Developer
 * A prototype of a 2D Platformer puzzle solver game
-* 
+* A treasure hunter go into the ruin to find treasures and solve puzzle to get out of this ruin.
 
 **Highlight of work**
-- Top-Up System
-- Ads System
-- Skin store
+- Puzzle system
+- Fix bug and remove some unnecessary line of code.
+
 
 ![ezgif-4-e9e7d20212](https://github.com/SuNnY54569/Portfolio/assets/87000150/3e038d8b-536e-4216-9016-399ad9ac2be1)
 
-You can [play this game](https://sunny54569.itch.io/shooting-range) directly on Itch.io or download the apk file to play.
+You can [play this game](https://sunny54569.itch.io/shooting-range) directly on Itch.io
 
 [This game repository](https://github.com/SuNnY54569/Portfolio/tree/main/Project/Maggy%20the%20Dinosaur%20V.2)
 
@@ -51,20 +50,20 @@ You can [play this game](https://sunny54569.itch.io/shooting-range) directly on 
 * First-time to make game for android.
 
 **Highlight of work**
-- Combo System
-- Puzzle integration
-- Enemy AI
+- Respawn checkpoint like game Celeste.
+- Ads System
+- Skin store
 
 ![ezgif-5-a9de5a93c3](https://github.com/SuNnY54569/Portfolio/assets/87000150/57bf5546-5c5f-44a4-b8d6-4c65dc03b92e)
 
-You can [play this game](https://sunny54569.itch.io/mission-of-muzashi) directly on Itch.io.
+You can [play this game](https://sunny54569.itch.io/mission-of-muzashi) 
 
 [This game repository](https://github.com/SuNnY54569/Portfolio/tree/main/Project/Mission%20Of%20Muzashi)
 
 ### Toytopia Defense
 
 * Worked as a Game Developer
-* 2D Tower defense
+* Simple 2D Tower defense 
 * Toss the ball to a teammate while attempting to avoid running into an obstruction and keeping the ball off the ground.
 
 ![ezgif-5-cc3a34df93](https://github.com/SuNnY54569/Portfolio/assets/87000150/e2a05eef-94c2-4db2-8c67-b4b5d85c2342)
