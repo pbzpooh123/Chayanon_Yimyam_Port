@@ -34,7 +34,7 @@ You can [play Infinite Deflect on Itch.io](https://pbzpooh123.itch.io/infinite-d
 - Fix bug and remove some unnecessary line of code.
 
 
-![ezgif-4-e9e7d20212](https://github.com/SuNnY54569/Portfolio/assets/87000150/3e038d8b-536e-4216-9016-399ad9ac2be1)
+![ezgif-4-e9e7d20212](https://github.com/pbzpooh123/Chayanon_Yimyam_Port/blob/main/Assest/2025-05-0822-03-23-ezgif.com-video-to-gif-converter.gif)
 
 You can [play this game](https://pbzpooh123.itch.io/heartofthefallenking) 
 
@@ -48,7 +48,7 @@ You can [play this game](https://pbzpooh123.itch.io/heartofthefallenking)
 **Highlight of work**
 - Respawn at checkpoint like game Celeste.
 
-![ezgif-5-a9de5a93c3](https://github.com/SuNnY54569/Portfolio/assets/87000150/57bf5546-5c5f-44a4-b8d6-4c65dc03b92e)
+![ezgif-5-a9de5a93c3](https://github.com/pbzpooh123/Chayanon_Yimyam_Port/blob/main/Assest/2025-05-0822-54-51-ezgif.com-video-to-gif-converter.gif)
 
 You can [play this game](https://pbzpooh123.itch.io/grassland-adventures) 
 
