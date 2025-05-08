@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   
-In [Project](https://github.com/SuNnY54569/Portfolio/tree/main/Project) folder contains every game I made while attending Bangkok University (BU). 2D, 3D games are all included, arranged by year of development.
+In [Project](https://github.com/pbzpooh123/Chayanon_Yimyam_Port/tree/main/Project) folder contains every game I made while attending Bangkok University (BU). 2D, 3D games are all included, arranged by year of development.
 </div>
 
 ## 2025
