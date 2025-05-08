@@ -36,9 +36,7 @@ You can [play Infinite Deflect on Itch.io](https://pbzpooh123.itch.io/infinite-d
 
 ![ezgif-4-e9e7d20212](https://github.com/SuNnY54569/Portfolio/assets/87000150/3e038d8b-536e-4216-9016-399ad9ac2be1)
 
-You can [play this game](https://pbzpooh123.itch.io/heartofthefallenking) directly on Itch.io
-
-[This game repository](https://github.com/SuNnY54569/Portfolio/tree/main/Project/Maggy%20the%20Dinosaur%20V.2)
+You can [play this game](https://pbzpooh123.itch.io/heartofthefallenking) 
 
 
 ### Fire Keeper 
@@ -48,14 +46,11 @@ You can [play this game](https://pbzpooh123.itch.io/heartofthefallenking) direct
 * First-time to make game for android.
 
 **Highlight of work**
-- Respawn checkpoint like game Celeste.
-- 
+- Respawn at checkpoint like game Celeste.
 
 ![ezgif-5-a9de5a93c3](https://github.com/SuNnY54569/Portfolio/assets/87000150/57bf5546-5c5f-44a4-b8d6-4c65dc03b92e)
 
 You can [play this game](https://pbzpooh123.itch.io/grassland-adventures) 
-
-[This game repository](https://github.com/SuNnY54569/Portfolio/tree/main/Project/Mission%20Of%20Muzashi)
 
 
 
