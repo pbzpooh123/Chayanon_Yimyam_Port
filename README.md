@@ -17,7 +17,7 @@ In [Project](https://github.com/pbzpooh123/Chayanon_Yimyam_Port/tree/main/Projec
 - Gameplay System : Implemented systems for player movement and the ball that will randomly select player and after it hit the player or "Deflect" by player will randomly select another player.
 - Respawn System : after each round end the player that die that round will respawn back at spawn point along with the winner of that round.
 
-![ GIF](https://github.com/SuNnY54569/SuNnY54569/blob/acbb43f1d15c94f8ee3fbc2918b130af1eb1f74a/TerraForge%20Trailer.gif)
+![ GIF](https://github.com/pbzpooh123/Chayanon_Yimyam_Port/blob/main/Assest/2025-05-0901-39-42online-video-cutter.com-ezgif.com-video-to-gif-converter.gif)
 
 You can [play Infinite Deflect on Itch.io](https://pbzpooh123.itch.io/infinite-deflect).
 
