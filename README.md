@@ -8,7 +8,7 @@ In [Project](https://github.com/SuNnY54569/Portfolio/tree/main/Project) folder c
 
 ## 2025
 
-### 🌍 Infinite Deflect- Multiplayer 
+### 🌍 Infinite Deflect (Multiplayer Game)
 * Worked as Game Developer
 * fast-paced, multiplayer PvP game
 
@@ -17,13 +17,13 @@ In [Project](https://github.com/SuNnY54569/Portfolio/tree/main/Project) folder c
 - Gameplay System : Implemented systems for player movement and the ball that will randomly select player and after it hit the player or "Deflect" by player will randomly select another player.
 - Respawn System : after each round end the player that die that round will respawn back at spawn point along with the winner of that round.
 
-![TerraForge GIF](https://github.com/SuNnY54569/SuNnY54569/blob/acbb43f1d15c94f8ee3fbc2918b130af1eb1f74a/TerraForge%20Trailer.gif)
+![ GIF](https://github.com/SuNnY54569/SuNnY54569/blob/acbb43f1d15c94f8ee3fbc2918b130af1eb1f74a/TerraForge%20Trailer.gif)
 
-You can [play TerraForge on Itch.io](https://phiraphonware.itch.io/terraforge).
+You can [play Infinite Deflect on Itch.io](https://phiraphonware.itch.io/terraforge).
 
 ## 2024
 
-### PJ02
+### Heart of the Fallen King
 
 * Worked as a Game Developer
 * A prototype of a 2D Platformer puzzle solver game
@@ -71,7 +71,7 @@ You can [play this game](https://sunny54569.itch.io/mission-of-muzashi)
 - Upgrade tower.
 - Round and skip button.
 
-![ezgif-5-cc3a34df93](https://github.com/SuNnY54569/Portfolio/assets/87000150/e2a05eef-94c2-4db2-8c67-b4b5d85c2342)
+You can [play this game](https://everlasting8.itch.io/toytopia-defense) 
 
-You can [play this game]((https://everlasting8.itch.io/toytopia-defense)) directly on Itch.io.
+![ezgif-5-cc3a34df93](https://github.com/SuNnY54569/Portfolio/assets/87000150/e2a05eef-94c2-4db2-8c67-b4b5d85c2342)
 
