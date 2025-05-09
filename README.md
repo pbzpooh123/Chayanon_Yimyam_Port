@@ -38,6 +38,8 @@ You can [play Infinite Deflect on Itch.io](https://pbzpooh123.itch.io/infinite-d
 
 You can [play this game](https://pbzpooh123.itch.io/heartofthefallenking) 
 
+[This game repository](https://github.com/SuNnY54569/Stomach-Struggle)
+
 
 ### Fire Keeper 
 
@@ -52,6 +54,8 @@ You can [play this game](https://pbzpooh123.itch.io/heartofthefallenking)
 
 You can [play this game](https://pbzpooh123.itch.io/grassland-adventures) 
 
+[This game repository](https://github.com/pbzpooh123/Mobile-Project.git)
+
 
 
 ## 2023
@@ -59,7 +63,8 @@ You can [play this game](https://pbzpooh123.itch.io/grassland-adventures)
 ### Toytopia Defense (My First Game Developed)
 
 * Worked as a Game Developer
-* Simple 2D Tower defense 
+* Simple 2D Tower defense
+* This Game was made with game maker studio 2 
 
 **Highlight of work**
 - Path for enemy to walk.
@@ -69,4 +74,6 @@ You can [play this game](https://pbzpooh123.itch.io/grassland-adventures)
 You can [play this game](https://everlasting8.itch.io/toytopia-defense) 
 
 ![ezgif-5-cc3a34df93](https://github.com/pbzpooh123/Chayanon_Yimyam_Port/blob/main/Assest/ezgif.com-video-to-gif-converter.gif)
+
+
 
