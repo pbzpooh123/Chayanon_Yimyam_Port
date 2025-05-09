@@ -38,7 +38,7 @@ You can [play Infinite Deflect on Itch.io](https://pbzpooh123.itch.io/infinite-d
 
 You can [play this game](https://pbzpooh123.itch.io/heartofthefallenking) 
 
-[This game repository](https://github.com/SuNnY54569/Stomach-Struggle)
+[This game repository](https://github.com/pbzpooh123/Heart-of-the-faillen-king.git)
 
 
 ### Fire Keeper 
