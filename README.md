@@ -21,6 +21,8 @@ In [Project](https://github.com/pbzpooh123/Chayanon_Yimyam_Port/tree/main/Projec
 
 You can [play Infinite Deflect on Itch.io](https://pbzpooh123.itch.io/infinite-deflect).
 
+[This game repository](https://github.com/pbzpooh123/Infinite-Deflect.git)
+
 ## 2024
 
 ### Heart of the Fallen King
