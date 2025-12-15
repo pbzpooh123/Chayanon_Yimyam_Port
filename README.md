@@ -5,6 +5,39 @@
 
 ## 2025
 
+### 🌍 Iron Curtain (Tesis)
+* Worked as Lead Game Developer
+* Multiplayer economic board game (Unity)
+
+A Cold War–themed multiplayer board game focused on economic strategy, negotiation, and stock ownership. The core mechanic centers on a unique stock market system where players must negotiate and persuade others to gain control of companies.
+
+## Key Contributions  
+- Multiplayer Networking System:
+Designed and implemented real-time multiplayer connectivity using Unity Netcode concepts and FishNet, handling player synchronization, turn order, and authoritative server logic.
+
+-Turn-Based Movement System :
+Implemented a dice-based movement system where players roll dice, move across the board, and trigger tile effects. All tile logic (events, taxes, bonuses, investments) is processed server-side to ensure fairness and consistency.
+
+-Investment & Stock Ownership System :
+Developed a custom stock system where companies can be partially owned. Players can buy shares, track ownership percentages, and gain control through majority stakes rather than fixed purchases.
+
+-Negotiation & Proposal System :
+Created a proposal-based negotiation mechanic that allows players to offer stock purchase deals to other players after landing on investment tiles, encouraging strategic persuasion and player interaction.
+
+-Server-Authoritative Game Logic :
+Implemented server-controlled handling for money flow, bailouts, events, penalties, and rewards to prevent client-side manipulation.
+
+-End-Game Analytics & Results UI :
+Built a detailed results screen that summarizes player performance, assigns investor-type titles and special awards, and visualizes score breakdowns with animated feedback.
+
+![ezgif-4-e9e7d20212](https://github.com/pbzpooh123/Chayanon_Yimyam_Port/blob/main/Assest/2025-05-0901-39-42online-video-cutter.com-ezgif.com-video-to-gif-converter.gif)
+
+You can [play Infinite Deflect on Itch.io](https://pbzpooh123.itch.io/iron).
+
+[This game repository](https://github.com/pbzpooh123/Ironcur)
+
+
+
 ### 🌍 Infinite Deflect (Multiplayer Game)
 * Worked as Game Developer
 * fast-paced, multiplayer PvP game
