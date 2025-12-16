@@ -30,7 +30,7 @@ Implemented server-controlled handling for money flow, bailouts, events, penalti
 -End-Game Analytics & Results UI :
 Built a detailed results screen that summarizes player performance, assigns investor-type titles and special awards, and visualizes score breakdowns with animated feedback.
 
-![ezgif-4-e9e7d20212](https://github.com/pbzpooh123/Chayanon_Yimyam_Port/blob/main/Assest/2025-05-0901-39-42online-video-cutter.com-ezgif.com-video-to-gif-converter.gif)
+![ezgif-4-e9e7d20212](https://youtu.be/kqVdGULhmao)
 
 You can [play Infinite Deflect on Itch.io](https://pbzpooh123.itch.io/iron).
 
