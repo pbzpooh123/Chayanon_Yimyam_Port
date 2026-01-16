@@ -5,7 +5,7 @@
 
 ## 2025
 
-### 🌍 Iron Curtain (Tesis)
+### 🌍 Iron Curtain (Thesis)
 * Worked as Lead Game Developer
 * Multiplayer economic board game (Unity)
 
