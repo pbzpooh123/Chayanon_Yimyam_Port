@@ -75,39 +75,62 @@ Built a detailed results screen summarizing player performance, assigning invest
 
 
 
-### 🌍 Infinite Deflect (Multiplayer Game)
-* Worked as Game Developer
-* fast-paced, multiplayer PvP game
+# 🏓 Infinite Deflect
 
-## Key Contributions  
-- Multiplayer Connection: Developed the system for real-time player connections using the Unity Netcode framework.  
-- Gameplay System : Implemented systems for player movement and the ball that will randomly select player and after it hit the player or "Deflect" by player will randomly select another player.
-- Respawn System : after each round end the player that die that round will respawn back at spawn point along with the winner of that round.
+A fast-paced **4-player online PvP game** built in Unity, where players must deflect a ball away from themselves — or get eliminated.
 
-![ezgif-4-e9e7d20212](https://github.com/pbzpooh123/Chayanon_Yimyam_Port/blob/main/Assest/2025-05-0901-39-42online-video-cutter.com-ezgif.com-video-to-gif-converter.gif)
+> 🎮 [Play on Itch.io](https://pbzpooh123.itch.io/infinite-deflect) · 💻 [View Repository](https://github.com/pbzpooh123/Infinite-Deflect.git)
 
-You can [play Infinite Deflect on Itch.io](https://pbzpooh123.itch.io/infinite-deflect).
+---
 
-[This game repository](https://github.com/pbzpooh123/Infinite-Deflect.git)
+## About the Game
 
-## 2024
+Infinite Deflect is a chaotic multiplayer PvP game where a ball randomly targets one of the players. You can either get hit and lose a life — or **deflect** it to send it flying toward someone else. Last player standing wins the round.
 
-### Heart of the Fallen King
+- **Platform:** PC (Windows, .exe)
+- **Players:** 2–4 (Online Multiplayer)
+- **Genre:** PvP / Action
+- **Role:** Game Developer
 
-* Worked as a Game Developer
-* A prototype of a 2D Platformer puzzle solver game
-* A treasure hunter go into the ruin to find treasures and solve puzzle to get out of this ruin.
+---
 
-**Highlight of work**
-- Puzzle system
-- Fix bug and remove some unnecessary line of code.
+## Built With
 
+| Technology | Version |
+|---|---|
+| Unity | 2022 |
+| Unity Netcode for GameObjects | — |
+| Language | C# |
 
-![ezgif-4-e9e7d20212](https://github.com/pbzpooh123/Chayanon_Yimyam_Port/blob/main/Assest/2025-05-0822-03-23-ezgif.com-video-to-gif-converter.gif)
+---
 
-You can [play this game](https://pbzpooh123.itch.io/heartofthefallenking) 
+## Key Features & Technical Contributions
 
-[This game repository](https://github.com/pbzpooh123/Heart-of-the-faillen-king.git)
+### Multiplayer Connection System
+Implemented real-time player connections using **Unity Netcode for GameObjects**, handling player joining, synchronization, and networked game state management.
+
+### Ball Targeting & Deflect System
+Built the core gameplay mechanic where the ball **randomly selects a target player** each time it is deflected or hits someone. Players can deflect the ball back, causing it to re-randomize and target another player — keeping every round unpredictable.
+
+### Respawn System
+After each round ends, players who were eliminated **respawn at their spawn points** alongside the round winner, ensuring smooth transitions between rounds without disconnecting.
+
+---
+
+##  Demo
+
+![Gameplay Preview](https://github.com/pbzpooh123/Chayanon_Yimyam_Port/blob/main/Assest/2025-05-0901-39-42online-video-cutter.com-ezgif.com-video-to-gif-converter.gif)
+
+---
+
+## 🚀 How to Play
+
+1. Download the `.exe` from [Itch.io](https://pbzpooh123.itch.io/infinite-deflect)
+2. Run the executable — no installation required
+3. Host or join a room (up to 4 players)
+4. Deflect the ball — don't get hit!
+
+---
 
 
 ### Fire Keeper 
