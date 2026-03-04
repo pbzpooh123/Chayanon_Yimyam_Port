@@ -5,42 +5,71 @@
 
 ## 2025
 
-### 🌍 Iron Curtain (Thesis)
-* Worked as Lead Game Developer
-* Multiplayer economic board game (Unity)
+# 🌍 Iron Curtain
 
-A Cold War–themed multiplayer board game focused on economic strategy, negotiation, and stock ownership. The core mechanic centers on a unique stock market system where players must negotiate and persuade others to gain control of companies.
+A Cold War–themed **multiplayer economic board game** built in Unity, where players compete for corporate dominance through stock ownership, negotiation, and economic strategy.
 
-## Key Contributions  
-- Multiplayer Networking System:
-Designed and implemented real-time multiplayer connectivity using Unity Netcode concepts and FishNet, handling player synchronization, turn order, and authoritative server logic.
+> 🎮 [Play on Itch.io](https://pbzpooh123.itch.io/iron) · 📺 [Watch Teaser](https://youtu.be/kqVdGULhmao) · 💻 [View Repository](https://github.com/pbzpooh123/Ironcur)
 
--Turn-Based Movement System :
-Implemented a dice-based movement system where players roll dice, move across the board, and trigger tile effects. All tile logic (events, taxes, bonuses, investments) is processed server-side to ensure fairness and consistency.
+---
 
--Investment & Stock Ownership System :
-Developed a custom stock system where companies can be partially owned. Players can buy shares, track ownership percentages, and gain control through majority stakes rather than fixed purchases.
+##  About the Game
 
--Negotiation & Proposal System :
-Created a proposal-based negotiation mechanic that allows players to offer stock purchase deals to other players after landing on investment tiles, encouraging strategic persuasion and player interaction.
+Iron Curtain is a 4-player competitive board game set during the Cold War era. Players navigate a tense economic landscape — buying shares, negotiating deals, and maneuvering to gain majority control of companies. Victory goes to the player who builds the most powerful economic empire.
 
--Server-Authoritative Game Logic :
-Implemented server-controlled handling for money flow, bailouts, events, penalties, and rewards to prevent client-side manipulation.
+- **Platform:** PC (Windows, .exe)
+- **Players:** 2–4 (Online Multiplayer)
+- **Genre:** Board Game / Economic Strategy
+- **Role:** Lead Game Developer (Thesis Project)
 
--End-Game Analytics & Results UI :
-Built a detailed results screen that summarizes player performance, assigns investor-type titles and special awards, and visualizes score breakdowns with animated feedback.
+---
 
-[Game Teaser & How to play] https://youtu.be/kqVdGULhmao
+##  Built With
 
-You can [play Iron Curtain on Itch.io](https://pbzpooh123.itch.io/iron).
+| Technology | Version |
+|---|---|
+| Unity | 2022 |
+| FishNet (Networking) | 4 |
+| Language | C# |
 
-[This game repository](https://github.com/pbzpooh123/Ironcur)
+---
 
+## Key Features & Technical Contributions
 
+### Multiplayer Networking System
+Designed and implemented real-time multiplayer connectivity using **FishNet 4**, handling player synchronization, turn order management, and authoritative server logic to ensure a consistent game state across all clients.
 
+### Turn-Based Movement System
+Built a dice-based movement system where players roll, move across the board, and trigger tile effects. All tile logic — including events, taxes, bonuses, and investments — is processed **server-side** to guarantee fairness.
 
+### Investment & Stock Ownership System
+Developed a custom stock market where companies can be **partially owned**. Players buy shares, track ownership percentages, and gain control through majority stakes — creating a dynamic and competitive economy.
 
+### Negotiation & Proposal System
+Created a proposal-based negotiation mechanic allowing players to offer stock deals to others after landing on investment tiles, encouraging **strategic persuasion and player interaction**.
 
+### Server-Authoritative Game Logic
+All critical game logic — money flow, bailouts, events, penalties, and rewards — is handled server-side to **prevent client-side manipulation** and maintain game integrity.
+
+### End-Game Analytics & Results UI
+Built a detailed results screen summarizing player performance, assigning investor-type titles and special awards, with **animated score breakdowns** for a polished finish.
+
+---
+
+## Screenshots / Demo
+
+ [Watch Teaser & How to Play on YouTube](https://youtu.be/kqVdGULhmao)
+
+---
+
+##  How to Play
+
+1. Download the `.exe` from [Itch.io](https://pbzpooh123.itch.io/iron)
+2. Run the executable — no installation required
+3. Host or join a room (up to 4 players)
+4. Negotiate, invest, and dominate the Cold War economy!
+
+---
 
 
 
