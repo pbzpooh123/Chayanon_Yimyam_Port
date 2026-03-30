@@ -47,6 +47,8 @@ Cold War-themed multiplayer economic board game. Players compete through stock o
 
 **Platform:** PC · **Players:** 2–4 Online · **Role:** Lead Game Developer
 
+> Watch the full teaser on [YouTube](https://youtu.be/kqVdGULhmao) — includes gameplay walkthrough.
+
 #### Network Systems
 | System | Description |
 |---|---|
@@ -78,6 +80,8 @@ Fast-paced 4-player online PvP. Deflect a ball away from yourself or get elimina
 
 **Platform:** PC · **Players:** 2–4 Online · **Role:** Game Developer
 
+![Infinite Deflect Gameplay](https://github.com/pbzpooh123/Chayanon_Yimyam_Port/blob/main/Assest/2025-05-0901-39-42online-video-cutter.com-ezgif.com-video-to-gif-converter.gif)
+
 #### Network Systems
 | System | Description |
 |---|---|
@@ -105,6 +109,8 @@ Fast-paced 4-player online PvP. Deflect a ball away from yourself or get elimina
 
 **Platform:** Android · **Role:** Game Developer
 
+![Fire Keeper Gameplay](https://github.com/pbzpooh123/Chayanon_Yimyam_Port/blob/main/Assest/2025-05-0822-54-51-ezgif.com-video-to-gif-converter.gif)
+
 - Checkpoint respawn system inspired by Celeste
 - First mobile release — touch controls, aspect ratio handling
 
@@ -115,6 +121,8 @@ Fast-paced 4-player online PvP. Deflect a ball away from yourself or get elimina
 Simple 2D tower defense built with GameMaker Studio 2.
 
 [![Play](https://img.shields.io/badge/Play-Itch.io-FA5C5C?style=flat)](https://everlasting8.itch.io/toytopia-defense)
+
+![Toytopia Defense Gameplay](https://github.com/pbzpooh123/Chayanon_Yimyam_Port/blob/main/Assest/ezgif.com-video-to-gif-converter.gif)
 
 - Enemy pathing system
 - Tower upgrade mechanics
